@@ -1,0 +1,46 @@
+Added Component: Designator=U3(QFP80P1200X1200X120-44N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MANF"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "PIC32MZ2048EFH064-I/PT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "PIC32MZ2048EFH064-I/PT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PMD5 Pin=U3-1
+Added Pin To Net: NetName=PMD6 Pin=U3-2
+Added Pin To Net: NetName=PMD7 Pin=U3-3
+Added Pin To Net: NetName=FPIO3 Pin=U3-4
+Added Pin To Net: NetName=SDA4 Pin=U3-5
+Added Pin To Net: NetName=SCL4 Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=3V3 Pin=U3-8
+Added Pin To Net: NetName=\M\C\L\R Pin=U3-9
+Added Pin To Net: NetName=FPIO4 Pin=U3-10
+Added Pin To Net: NetName=FPGA_P\R\O\G\R\A\M\ Pin=U3-12
+Added Pin To Net: NetName=FPGA_DONE Pin=U3-13
+Added Pin To Net: NetName=FPGA_I\N\I\T\ Pin=U3-14
+Added Pin To Net: NetName=PGC Pin=U3-15
+Added Pin To Net: NetName=PGD Pin=U3-16
+Added Pin To Net: NetName=S\S\3\ Pin=U3-18
+Added Pin To Net: NetName=3V3 Pin=U3-19
+Added Pin To Net: NetName=GND Pin=U3-20
+Added Pin To Net: NetName=S\S\4\ Pin=U3-21
+Added Pin To Net: NetName=FPIO0 Pin=U3-24
+Added Pin To Net: NetName=GND Pin=U3-25
+Added Pin To Net: NetName=3V3 Pin=U3-26
+Added Pin To Net: NetName=FPIO1 Pin=U3-27
+Added Pin To Net: NetName=SCK3 Pin=U3-29
+Added Pin To Net: NetName=DAC_RDY Pin=U3-30
+Added Pin To Net: NetName=OSC24 Pin=U3-31
+Added Pin To Net: NetName=LED2 Pin=U3-32
+Added Pin To Net: NetName=5V_USB Pin=U3-33
+Added Pin To Net: NetName=3V3 Pin=U3-34
+Added Pin To Net: NetName=GND Pin=U3-35
+Added Pin To Net: NetName=D-_filt Pin=U3-36
+Added Pin To Net: NetName=D+_filt Pin=U3-37
+Added Pin To Net: NetName=USBID Pin=U3-38
+Added Pin To Net: NetName=3V3 Pin=U3-39
+Added Pin To Net: NetName=GND Pin=U3-40
+Added Pin To Net: NetName=FPIO2 Pin=U3-41
+Added Pin To Net: NetName=SDI4 Pin=U3-42
+Added Pin To Net: NetName=PMDC Pin=U3-43
+Added Pin To Net: NetName=SCK4 Pin=U3-44
+Added Member To Class: ClassName=Controller Member=Component U3 PIC32MZ2048EFH064

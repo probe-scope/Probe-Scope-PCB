@@ -1,0 +1,603 @@
+Change Component Library : Designator=R18 Old Library=MENG Database Library 18.DbLib New Library=MENG Database Library VPN.DbLib
+Change Component Library : Designator=R19 Old Library=MENG Database Library 18.DbLib New Library=MENG Database Library VPN.DbLib
+Change Component Library : Designator=R20 Old Library=MENG Database Library 18.DbLib New Library=MENG Database Library VPN.DbLib
+Change Component Library : Designator=R21 Old Library=MENG Database Library 18.DbLib New Library=MENG Database Library VPN.DbLib
+Change Component Library : Designator=R22 Old Library=MENG Database Library 18.DbLib New Library=MENG Database Library VPN.DbLib
+Change Component Library : Designator=R23 Old Library=MENG Database Library 18.DbLib New Library=MENG Database Library VPN.DbLib
+Added Component: Designator=C11(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "11/6/2018 11:14:02 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL05B104KQ5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "jrowley"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 0.1uF, 6.3V, 10% Tol, 125C, X7R, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1511-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=C26(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "11/6/2018 11:14:02 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL05B104KQ5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "jrowley"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 0.1uF, 6.3V, 10% Tol, 125C, X7R, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1511-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=C31(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "11/6/2018 11:14:02 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL05B104KQ5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "jrowley"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 0.1uF, 6.3V, 10% Tol, 125C, X7R, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1511-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=C32(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "11/6/2018 11:14:02 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL05B104KQ5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "jrowley"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 0.1uF, 6.3V, 10% Tol, 125C, X7R, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1511-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=C33(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "11/6/2018 11:14:02 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL05B104KQ5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "jrowley"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 0.1uF, 6.3V, 10% Tol, 125C, X7R, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1511-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=C34(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "11/6/2018 11:14:02 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL05B104KQ5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "jrowley"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 0.1uF, 6.3V, 10% Tol, 125C, X7R, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1511-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=C35(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "11/6/2018 11:14:02 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL05B104KQ5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "jrowley"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 0.1uF, 6.3V, 10% Tol, 125C, X7R, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1511-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=C36(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "11/6/2018 11:14:02 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL05B104KQ5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "jrowley"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 0.1uF, 6.3V, 10% Tol, 125C, X7R, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1511-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=C37(0603(1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "3/3/2015 11:08:29 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL10A106MA8NRNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "sotterbacher"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 10uF, 25V, 20% Tol, 85C, X5R, 0603, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1869-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25"; VariantName = "[No Variations]"
+Added Component: Designator=C38(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "11/6/2018 11:14:02 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL05B104KQ5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "jrowley"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 0.1uF, 6.3V, 10% Tol, 125C, X7R, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1511-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=C39(0603(1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "3/3/2015 11:08:29 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL10A106MA8NRNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "sotterbacher"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 10uF, 25V, 20% Tol, 85C, X5R, 0603, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1869-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25"; VariantName = "[No Variations]"
+Added Component: Designator=C40(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "11/6/2018 11:14:02 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL05B104KQ5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "jrowley"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 0.1uF, 6.3V, 10% Tol, 125C, X7R, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1511-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=C45(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "11/6/2018 11:14:02 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL05B104KQ5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "jrowley"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 0.1uF, 6.3V, 10% Tol, 125C, X7R, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1511-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=C62(0603(1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "3/3/2015 11:08:29 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL10A106MA8NRNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "sotterbacher"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 10uF, 25V, 20% Tol, 85C, X5R, 0603, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1869-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25"; VariantName = "[No Variations]"
+Added Component: Designator=C63(0603(1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "3/3/2015 11:08:29 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL10A106MA8NRNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "sotterbacher"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 10uF, 25V, 20% Tol, 85C, X5R, 0603, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1869-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25"; VariantName = "[No Variations]"
+Added Component: Designator=C64(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "11/6/2018 11:14:02 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL05B104KQ5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "jrowley"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 0.1uF, 6.3V, 10% Tol, 125C, X7R, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1511-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=C65(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "11/6/2018 11:14:02 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL05B104KQ5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "jrowley"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 0.1uF, 6.3V, 10% Tol, 125C, X7R, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1511-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=C66(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "11/6/2018 11:14:02 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL05B104KQ5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "jrowley"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 0.1uF, 6.3V, 10% Tol, 125C, X7R, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1511-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=C67(0603(1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "3/3/2015 11:08:29 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL10A106MA8NRNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "sotterbacher"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 10uF, 25V, 20% Tol, 85C, X5R, 0603, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1869-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25"; VariantName = "[No Variations]"
+Added Component: Designator=C68(0603(1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "3/3/2015 11:08:29 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CL10A106MA8NRNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "sotterbacher"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Capacitor, Ceramic, 10uF, 25V, 20% Tol, 85C, X5R, 0603, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "1276-1869-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "8/27/2018 6:34:02 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Expr1026"; Value = "1806"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KEY"; Value = "1806"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "RMCF0402FT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1806"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "jrowley"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Resistor, Thick Film, 10k Ohms, 0.0625W, 1% Tol, 100V, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1806"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.0625"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "RMCF0402FT10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "8/27/2018 6:34:02 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Expr1026"; Value = "1806"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KEY"; Value = "1806"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "RMCF0402FT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1806"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "jrowley"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Resistor, Thick Film, 10k Ohms, 0.0625W, 1% Tol, 100V, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1806"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.0625"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "RMCF0402FT10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0603(1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "8/12/2013 4:27:29 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Expr1026"; Value = "1011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "1011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "ERJ-3EKF1692V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???1011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "sotterbacher"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Resistor, Thick Film, 16.9k Ohms, 0.1W, 1% Tol, 0603, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "1011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16.9k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "P16.9KHCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "True"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=3V3 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=3V3 Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=3V3 Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=3V3 Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=3V3 Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=3V3 Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=5V Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=5V Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=-5V Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=-5V Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=5V Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=5V Pin=C45-2
+Added Pin To Net: NetName=GND Pin=C62-1
+Added Pin To Net: NetName=5V Pin=C62-2
+Added Pin To Net: NetName=GND Pin=C63-1
+Added Pin To Net: NetName=5V Pin=C63-2
+Added Pin To Net: NetName=GND Pin=C64-1
+Added Pin To Net: NetName=3V3 Pin=C64-2
+Added Pin To Net: NetName=GND Pin=C65-1
+Added Pin To Net: NetName=-5V Pin=C65-2
+Added Pin To Net: NetName=GND Pin=C66-1
+Added Pin To Net: NetName=-5V Pin=C66-2
+Added Pin To Net: NetName=GND Pin=C67-1
+Added Pin To Net: NetName=-5V Pin=C67-2
+Added Pin To Net: NetName=GND Pin=C68-1
+Added Pin To Net: NetName=-5V Pin=C68-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=3V3 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=NetR2_1 Pin=R7-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetC35_2 Pin=R8-2
+Added Member To Class: ClassName=Analog Frontend Member=Component C11 6.3V
+Added Member To Class: ClassName=Analog Frontend Member=Component C26 6.3V
+Added Member To Class: ClassName=Analog Frontend Member=Component C31 6.3V
+Added Member To Class: ClassName=Analog Frontend Member=Component C32 6.3V
+Added Member To Class: ClassName=Analog Frontend Member=Component C33 6.3V
+Added Member To Class: ClassName=Analog Frontend Member=Component C34 6.3V
+Added Member To Class: ClassName=Analog Frontend Member=Component C35 6.3V
+Added Member To Class: ClassName=Analog Frontend Member=Component C36 6.3V
+Added Member To Class: ClassName=Analog Frontend Member=Component C37 25V
+Added Member To Class: ClassName=Analog Frontend Member=Component C38 6.3V
+Added Member To Class: ClassName=Analog Frontend Member=Component C39 25V
+Added Member To Class: ClassName=Analog Frontend Member=Component C40 6.3V
+Added Member To Class: ClassName=Analog Frontend Member=Component C45 6.3V
+Added Member To Class: ClassName=Analog Frontend Member=Component C62 25V
+Added Member To Class: ClassName=Analog Frontend Member=Component C63 25V
+Added Member To Class: ClassName=Analog Frontend Member=Component C64 6.3V
+Added Member To Class: ClassName=Analog Frontend Member=Component C65 6.3V
+Added Member To Class: ClassName=Analog Frontend Member=Component C66 6.3V
+Added Member To Class: ClassName=Analog Frontend Member=Component C67 25V
+Added Member To Class: ClassName=Analog Frontend Member=Component C68 25V
+Added Member To Class: ClassName=Analog Frontend Member=Component R2 0.1% 25ppm
+Added Member To Class: ClassName=Analog Frontend Member=Component R7 0.1% 25ppm
+Added Member To Class: ClassName=Analog Frontend Member=Component R8 Res1

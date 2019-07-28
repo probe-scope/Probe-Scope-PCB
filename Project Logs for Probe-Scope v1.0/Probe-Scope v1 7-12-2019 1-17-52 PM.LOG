@@ -1,0 +1,294 @@
+Added Component: Designator=U1(QFP80P1200X1200X120-44N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MANF"; Value = "Analog Devices Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "AD9481BSUZ-250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "AD9481BSUZ-250-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U2(132_Ball_csBGA_MachXO2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MANF"; Value = "Lattice Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "LCMXO2-4000HC-4MG132C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "220-1458-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U3(QFP80P1200X1200X120-44N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MANF"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "PIC32MZ2048EFH064-I/PT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "PIC32MZ2048EFH064-I/PT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U4(Cypress-VAA024)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MANF"; Value = "Cypress"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "S70KS1281DPBHV020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "2015-S70KS1281DPBHV020-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U5(MCHP_H5A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MANF"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "DSC1103CI3-250.0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "579-1103CI32500000"; VariantName = "[No Variations]"
+Added Component: Designator=U6(MCP_8_MLF)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MANF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "MIC23050-SYML-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "576-3351-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U9(MCP_8_MLF)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MANF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "MIC23050-GYML-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "576-2974-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC_OSC_P Pin=U1-1
+Added Pin To Net: NetName=ADC_OSC_N Pin=U1-2
+Added Pin To Net: NetName=3V3 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=3V3 Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=ADC_D7A Pin=U1-7
+Added Pin To Net: NetName=ADC_D6A Pin=U1-8
+Added Pin To Net: NetName=ADC_D5A Pin=U1-9
+Added Pin To Net: NetName=ADC_D4A Pin=U1-10
+Added Pin To Net: NetName=ADC_D3A Pin=U1-11
+Added Pin To Net: NetName=ADC_D2A Pin=U1-12
+Added Pin To Net: NetName=ADC_D1A Pin=U1-13
+Added Pin To Net: NetName=ADC_D0A Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=ADC_DCO_N Pin=U1-16
+Added Pin To Net: NetName=ADC_DCO_P Pin=U1-17
+Added Pin To Net: NetName=3V3 Pin=U1-18
+Added Pin To Net: NetName=ADC_D0B Pin=U1-19
+Added Pin To Net: NetName=ADC_D1B Pin=U1-20
+Added Pin To Net: NetName=ADC_D2B Pin=U1-21
+Added Pin To Net: NetName=ADC_D3B Pin=U1-22
+Added Pin To Net: NetName=ADC_D4B Pin=U1-23
+Added Pin To Net: NetName=ADC_D5B Pin=U1-24
+Added Pin To Net: NetName=GND Pin=U1-27
+Added Pin To Net: NetName=GND Pin=U1-28
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Pin To Net: NetName=3V3 Pin=U1-30
+Added Pin To Net: NetName=3V3 Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-32
+Added Pin To Net: NetName=GND Pin=U1-33
+Added Pin To Net: NetName=Vref Pin=U1-34
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=3V3 Pin=U1-36
+Added Pin To Net: NetName=GND Pin=U1-37
+Added Pin To Net: NetName=GND Pin=U1-40
+Added Pin To Net: NetName=3V3 Pin=U1-41
+Added Pin To Net: NetName=3V3 Pin=U1-42
+Added Pin To Net: NetName=3V3 Pin=U1-43
+Added Pin To Net: NetName=GND Pin=U1-44
+Added Pin To Net: NetName=3V3 Pin=U2-A1
+Added Pin To Net: NetName=FLED2 Pin=U2-A2
+Added Pin To Net: NetName=FLED0 Pin=U2-A3
+Added Pin To Net: NetName=FJ_TDO Pin=U2-A4
+Added Pin To Net: NetName=GND Pin=U2-A5
+Added Pin To Net: NetName=FJ_TMS Pin=U2-A6
+Added Pin To Net: NetName=FPIO0 Pin=U2-A7
+Added Pin To Net: NetName=3V3 Pin=U2-A8
+Added Pin To Net: NetName=FDIO0_P Pin=U2-A11
+Added Pin To Net: NetName=FDIO1_N Pin=U2-A12
+Added Pin To Net: NetName=FPGA_P\R\O\G\R\A\M\ Pin=U2-A13
+Added Pin To Net: NetName=3V3 Pin=U2-A14
+Added Pin To Net: NetName=FLED1 Pin=U2-B3
+Added Pin To Net: NetName=FJ_TDI Pin=U2-B4
+Added Pin To Net: NetName=FJ_TCK Pin=U2-B6
+Added Pin To Net: NetName=FPIO1 Pin=U2-B7
+Added Pin To Net: NetName=FPIO3 Pin=U2-B8
+Added Pin To Net: NetName=FPGA_I\N\I\T\ Pin=U2-B9
+Added Pin To Net: NetName=3V3 Pin=U2-B10
+Added Pin To Net: NetName=GND Pin=U2-B11
+Added Pin To Net: NetName=FDIO0_N Pin=U2-B12
+Added Pin To Net: NetName=3V3 Pin=U2-C5
+Added Pin To Net: NetName=FPIO2 Pin=U2-C8
+Added Pin To Net: NetName=FPIO4 Pin=U2-C9
+Added Pin To Net: NetName=FPGA_DONE Pin=U2-C10
+Added Pin To Net: NetName=FDIO1_P Pin=U2-C12
+Added Pin To Net: NetName=GND Pin=U2-D2
+Added Pin To Net: NetName=3V3 Pin=U2-D3
+Added Pin To Net: NetName=GND Pin=U2-D13
+Added Pin To Net: NetName=1V8 Pin=U2-D14
+Added Pin To Net: NetName=PMD0 Pin=U2-E1
+Added Pin To Net: NetName=PMD1 Pin=U2-E2
+Added Pin To Net: NetName=PMD2 Pin=U2-E3
+Added Pin To Net: NetName=MEM_PSC_P Pin=U2-E12
+Added Pin To Net: NetName=MEM_RWDS Pin=U2-E13
+Added Pin To Net: NetName=MEM_PSC_N Pin=U2-E14
+Added Pin To Net: NetName=PMD4 Pin=U2-F1
+Added Pin To Net: NetName=PMD3 Pin=U2-F2
+Added Pin To Net: NetName=PMD5 Pin=U2-F3
+Added Pin To Net: NetName=MEM_D0 Pin=U2-F13
+Added Pin To Net: NetName=MEM_D1 Pin=U2-F14
+Added Pin To Net: NetName=3V3 Pin=U2-G1
+Added Pin To Net: NetName=GND Pin=U2-G2
+Added Pin To Net: NetName=MEM_D2 Pin=U2-G12
+Added Pin To Net: NetName=MEM_CK_P Pin=U2-G13
+Added Pin To Net: NetName=MEM_D3 Pin=U2-G14
+Added Pin To Net: NetName=PMD6 Pin=U2-H1
+Added Pin To Net: NetName=PMD7 Pin=U2-H3
+Added Pin To Net: NetName=MEM_CK_N Pin=U2-H12
+Added Pin To Net: NetName=GND Pin=U2-H13
+Added Pin To Net: NetName=1V8 Pin=U2-H14
+Added Pin To Net: NetName=PMENB Pin=U2-J1
+Added Pin To Net: NetName=\P\M\W\R Pin=U2-J2
+Added Pin To Net: NetName=PMDC Pin=U2-J3
+Added Pin To Net: NetName=MEM_D4 Pin=U2-J12
+Added Pin To Net: NetName=MEM_D6 Pin=U2-J13
+Added Pin To Net: NetName=MEM_D5 Pin=U2-J14
+Added Pin To Net: NetName=PMCS1 Pin=U2-K2
+Added Pin To Net: NetName=MEM_D7 Pin=U2-K12
+Added Pin To Net: NetName=MEM_C\S\ Pin=U2-K13
+Added Pin To Net: NetName=MEM_R\E\S\E\T\ Pin=U2-K14
+Added Pin To Net: NetName=3V3 Pin=U2-L1
+Added Pin To Net: NetName=GND Pin=U2-L2
+Added Pin To Net: NetName=1V8 Pin=U2-L12
+Added Pin To Net: NetName=GND Pin=U2-L13
+Added Pin To Net: NetName=SCK3 Pin=U2-M4
+Added Pin To Net: NetName=ADC_D1B Pin=U2-M5
+Added Pin To Net: NetName=3V3 Pin=U2-M6
+Added Pin To Net: NetName=ADC_D3B Pin=U2-M8
+Added Pin To Net: NetName=ADC_D5A Pin=U2-M9
+Added Pin To Net: NetName=ADC_D6A Pin=U2-M10
+Added Pin To Net: NetName=ADC_D7A Pin=U2-M11
+Added Pin To Net: NetName=3V3 Pin=U2-N1
+Added Pin To Net: NetName=ADC_D0A Pin=U2-N3
+Added Pin To Net: NetName=SDI3 Pin=U2-N4
+Added Pin To Net: NetName=ADC_D1A Pin=U2-N5
+Added Pin To Net: NetName=ADC_DCO_P Pin=U2-N6
+Added Pin To Net: NetName=ADC_D2B Pin=U2-N7
+Added Pin To Net: NetName=ADC_D4B Pin=U2-N9
+Added Pin To Net: NetName=ADC_D5B Pin=U2-N10
+Added Pin To Net: NetName=3V3 Pin=U2-N11
+Added Pin To Net: NetName=S\S\3\ Pin=U2-N12
+Added Pin To Net: NetName=3V3 Pin=U2-P1
+Added Pin To Net: NetName=ADC_D0B Pin=U2-P4
+Added Pin To Net: NetName=GND Pin=U2-P5
+Added Pin To Net: NetName=ADC_DCO_N Pin=U2-P6
+Added Pin To Net: NetName=ADC_D2A Pin=U2-P7
+Added Pin To Net: NetName=ADC_D3A Pin=U2-P8
+Added Pin To Net: NetName=ADC_D4A Pin=U2-P9
+Added Pin To Net: NetName=GND Pin=U2-P10
+Added Pin To Net: NetName=SDO3 Pin=U2-P13
+Added Pin To Net: NetName=3V3 Pin=U2-P14
+Added Pin To Net: NetName=PMD5 Pin=U3-1
+Added Pin To Net: NetName=PMD6 Pin=U3-2
+Added Pin To Net: NetName=PMD7 Pin=U3-3
+Added Pin To Net: NetName=FPIO3 Pin=U3-4
+Added Pin To Net: NetName=SDA4 Pin=U3-5
+Added Pin To Net: NetName=SCL4 Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=3V3 Pin=U3-8
+Added Pin To Net: NetName=\M\C\L\R Pin=U3-9
+Added Pin To Net: NetName=FPIO4 Pin=U3-10
+Added Pin To Net: NetName=FPGA_P\R\O\G\R\A\M\ Pin=U3-12
+Added Pin To Net: NetName=FPGA_DONE Pin=U3-13
+Added Pin To Net: NetName=FPGA_I\N\I\T\ Pin=U3-14
+Added Pin To Net: NetName=PGC Pin=U3-15
+Added Pin To Net: NetName=PGD Pin=U3-16
+Added Pin To Net: NetName=S\S\3\ Pin=U3-18
+Added Pin To Net: NetName=3V3 Pin=U3-19
+Added Pin To Net: NetName=GND Pin=U3-20
+Added Pin To Net: NetName=S\S\4\ Pin=U3-21
+Added Pin To Net: NetName=FPIO0 Pin=U3-24
+Added Pin To Net: NetName=GND Pin=U3-25
+Added Pin To Net: NetName=3V3 Pin=U3-26
+Added Pin To Net: NetName=FPIO1 Pin=U3-27
+Added Pin To Net: NetName=SCK3 Pin=U3-29
+Added Pin To Net: NetName=DAC_RDY Pin=U3-30
+Added Pin To Net: NetName=OSC24 Pin=U3-31
+Added Pin To Net: NetName=LED2 Pin=U3-32
+Added Pin To Net: NetName=5V_USB Pin=U3-33
+Added Pin To Net: NetName=3V3 Pin=U3-34
+Added Pin To Net: NetName=GND Pin=U3-35
+Added Pin To Net: NetName=D-_filt Pin=U3-36
+Added Pin To Net: NetName=D+_filt Pin=U3-37
+Added Pin To Net: NetName=USBID Pin=U3-38
+Added Pin To Net: NetName=3V3 Pin=U3-39
+Added Pin To Net: NetName=GND Pin=U3-40
+Added Pin To Net: NetName=FPIO2 Pin=U3-41
+Added Pin To Net: NetName=SDI4 Pin=U3-42
+Added Pin To Net: NetName=PMDC Pin=U3-43
+Added Pin To Net: NetName=SCK4 Pin=U3-44
+Added Pin To Net: NetName=MEM_C\S\ Pin=U4-A3
+Added Pin To Net: NetName=MEM_R\E\S\E\T\ Pin=U4-A4
+Added Pin To Net: NetName=MEM_CK_N Pin=U4-B1
+Added Pin To Net: NetName=MEM_CK_P Pin=U4-B2
+Added Pin To Net: NetName=GND Pin=U4-B3
+Added Pin To Net: NetName=1V8 Pin=U4-B4
+Added Pin To Net: NetName=MEM_PSC_P Pin=U4-B5
+Added Pin To Net: NetName=GND Pin=U4-C1
+Added Pin To Net: NetName=MEM_RWDS Pin=U4-C3
+Added Pin To Net: NetName=MEM_D2 Pin=U4-C4
+Added Pin To Net: NetName=MEM_PSC_N Pin=U4-C5
+Added Pin To Net: NetName=1V8 Pin=U4-D1
+Added Pin To Net: NetName=MEM_D1 Pin=U4-D2
+Added Pin To Net: NetName=MEM_D0 Pin=U4-D3
+Added Pin To Net: NetName=MEM_D3 Pin=U4-D4
+Added Pin To Net: NetName=MEM_D4 Pin=U4-D5
+Added Pin To Net: NetName=MEM_D7 Pin=U4-E1
+Added Pin To Net: NetName=MEM_D6 Pin=U4-E2
+Added Pin To Net: NetName=MEM_D5 Pin=U4-E3
+Added Pin To Net: NetName=1V8 Pin=U4-E4
+Added Pin To Net: NetName=GND Pin=U4-E5
+Added Pin To Net: NetName=3V3 Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=ADC_OSC_P Pin=U5-4
+Added Pin To Net: NetName=ADC_OSC_N Pin=U5-5
+Added Pin To Net: NetName=3V3 Pin=U5-6
+Added Pin To Net: NetName=5V_USB Pin=U6-2
+Added Pin To Net: NetName=3V3 Pin=U6-4
+Added Pin To Net: NetName=GND Pin=U6-6
+Added Pin To Net: NetName=5V_USB Pin=U6-7
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=GND Pin=U6-9
+Added Pin To Net: NetName=5V_USB Pin=U9-2
+Added Pin To Net: NetName=1V8 Pin=U9-4
+Added Pin To Net: NetName=GND Pin=U9-6
+Added Pin To Net: NetName=5V_USB Pin=U9-7
+Added Pin To Net: NetName=GND Pin=U9-8
+Added Pin To Net: NetName=GND Pin=U9-9
+Added Pin To Net: NetName=ADC_D6B Pin=U1-25
+Added Pin To Net: NetName=ADC_D6B Pin=U2-P11
+Added Net: Name=ADC_D6B
+Added Pin To Net: NetName=ADC_D7B Pin=U1-26
+Added Pin To Net: NetName=ADC_D7B Pin=U2-P12
+Added Net: Name=ADC_D7B
+Added Net: Name=NetC35_2
+Added Pin To Net: NetName=NetC69_1 Pin=U9-5
+Added Net: Name=NetC69_1
+Added Pin To Net: NetName=NetC71_1 Pin=U6-5
+Added Net: Name=NetC71_1
+Added Net: Name=NetC73_1
+Added Net: Name=NetC73_2
+Added Net: Name=NetP2_1
+Added Net: Name=NetR2_1
+Added Net: Name=NetR8_1
+Added Net: Name=NetR18_2
+Added Net: Name=NetR19_2
+Added Net: Name=NetR20_2
+Added Net: Name=NetR21_2
+Added Net: Name=NetR22_1
+Added Net: Name=NetR22_2
+Added Net: Name=NetR23_2
+Added Net: Name=NetU13_10
+Added Net: Name=NetU13_11
+Added Net: Name=NetU14_10
+Added Net: Name=NetU14_11
+Added Net: Name=NetU14_14
+Added Net: Name=NetU14_21
+Added Net: Name=NetU14_27
+Added Pin To Net: NetName=Vin_N Pin=U1-38
+Added Net: Name=Vin_N
+Added Pin To Net: NetName=Vin_P Pin=U1-39
+Added Net: Name=Vin_P
+Added Class: Name=Power
+Added Differential Pair: Name=Vin
+Added Member To Class: ClassName=ADC Member=Component U1 AD9481BSUZ-250
+Added Member To Class: ClassName=ADC Member=Component U2 LCMXO2-4000
+Added Member To Class: ClassName=Controller Member=Component U3 PIC32MZ2048EFH064
+Added Member To Class: ClassName=Sample Memory Member=Component U4 S70KS128
+Added Member To Class: ClassName=ADC Member=Component U5 DSC1103
+Added Member To Class: ClassName=ADC_DATA - 150mil Member=Wire ADC_D6B
+Added Member To Class: ClassName=ADC_DATA - 150mil Member=Wire ADC_D7B

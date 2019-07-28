@@ -1,0 +1,101 @@
+Added Component: Designator=U11(SOT95P280X145-5L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MANF"; Value = "Analog Devices Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "AD8055ARTZ-REEL7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "AD8055ARTZ-REEL7CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U13(QFN50P300X300X80_HS-17L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MANF"; Value = "Analog Devices Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "ADA4932-1YCPZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "ADA4932-1YCPZ-R7CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U14(QFN50P500X500X80_HS-33L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MANF"; Value = "Analog Devices Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "ADRF6518ACPZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "ADRF6518ACPZ-R7TR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U15(MSOP-10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MANF"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "MCP4728T-E/UN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "MCP4728T-E/UNCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U16(SOT95P280X145-6N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MANF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "LM2664M6X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "LM2664M6X/NOPBCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR22_1 Pin=U11-1
+Added Pin To Net: NetName=-5V Pin=U11-2
+Added Pin To Net: NetName=NetP2_1 Pin=U11-3
+Added Pin To Net: NetName=NetR22_1 Pin=U11-4
+Added Pin To Net: NetName=5V Pin=U11-5
+Added Pin To Net: NetName=NetR23_2 Pin=U13-1
+Added Pin To Net: NetName=NetR22_2 Pin=U13-2
+Added Pin To Net: NetName=NetR20_2 Pin=U13-3
+Added Pin To Net: NetName=NetR21_2 Pin=U13-4
+Added Pin To Net: NetName=5V Pin=U13-5
+Added Pin To Net: NetName=5V Pin=U13-6
+Added Pin To Net: NetName=5V Pin=U13-7
+Added Pin To Net: NetName=5V Pin=U13-8
+Added Pin To Net: NetName=VCM Pin=U13-9
+Added Pin To Net: NetName=NetU13_10 Pin=U13-10
+Added Pin To Net: NetName=NetU13_11 Pin=U13-11
+Added Pin To Net: NetName=5V Pin=U13-12
+Added Pin To Net: NetName=-5V Pin=U13-13
+Added Pin To Net: NetName=-5V Pin=U13-14
+Added Pin To Net: NetName=-5V Pin=U13-15
+Added Pin To Net: NetName=-5V Pin=U13-16
+Added Pin To Net: NetName=3V3 Pin=U14-1
+Added Pin To Net: NetName=GND Pin=U14-2
+Added Pin To Net: NetName=S\S\4\ Pin=U14-3
+Added Pin To Net: NetName=SCK4 Pin=U14-4
+Added Pin To Net: NetName=SDO4 Pin=U14-5
+Added Pin To Net: NetName=SDI4 Pin=U14-6
+Added Pin To Net: NetName=VCM Pin=U14-7
+Added Pin To Net: NetName=3V3 Pin=U14-8
+Added Pin To Net: NetName=GND Pin=U14-9
+Added Pin To Net: NetName=NetU14_10 Pin=U14-10
+Added Pin To Net: NetName=NetU14_11 Pin=U14-11
+Added Pin To Net: NetName=3V3 Pin=U14-12
+Added Pin To Net: NetName=NetU14_14 Pin=U14-14
+Added Pin To Net: NetName=3V3 Pin=U14-16
+Added Pin To Net: NetName=Vin_P Pin=U14-17
+Added Pin To Net: NetName=Vin_N Pin=U14-18
+Added Pin To Net: NetName=GND Pin=U14-19
+Added Pin To Net: NetName=VCM Pin=U14-20
+Added Pin To Net: NetName=NetU14_21 Pin=U14-21
+Added Pin To Net: NetName=GND Pin=U14-22
+Added Pin To Net: NetName=NetU14_11 Pin=U14-23
+Added Pin To Net: NetName=NetU14_10 Pin=U14-24
+Added Pin To Net: NetName=3V3 Pin=U14-25
+Added Pin To Net: NetName=NetU14_27 Pin=U14-27
+Added Pin To Net: NetName=3V3 Pin=U14-29
+Added Pin To Net: NetName=NetU13_11 Pin=U14-30
+Added Pin To Net: NetName=NetU13_10 Pin=U14-31
+Added Pin To Net: NetName=3V3 Pin=U14-32
+Added Pin To Net: NetName=GND Pin=U14-33
+Added Pin To Net: NetName=5V Pin=U15-1
+Added Pin To Net: NetName=SCL4 Pin=U15-2
+Added Pin To Net: NetName=SDA4 Pin=U15-3
+Added Pin To Net: NetName=L\D\A\C\ Pin=U15-4
+Added Pin To Net: NetName=DAC_RDY Pin=U15-5
+Added Pin To Net: NetName=NetU14_27 Pin=U15-6
+Added Pin To Net: NetName=NetU14_14 Pin=U15-7
+Added Pin To Net: NetName=NetU14_21 Pin=U15-8
+Added Pin To Net: NetName=NetR8_1 Pin=U15-9
+Added Pin To Net: NetName=GND Pin=U15-10
+Added Pin To Net: NetName=GND Pin=U16-1
+Added Pin To Net: NetName=-5V Pin=U16-2
+Added Pin To Net: NetName=NetC73_1 Pin=U16-3
+Added Pin To Net: NetName=5V Pin=U16-4
+Added Pin To Net: NetName=5V Pin=U16-5
+Added Pin To Net: NetName=NetC73_2 Pin=U16-6
+Added Member To Class: ClassName=Analog Frontend Member=Component U11 AD8055
+Added Member To Class: ClassName=Analog Frontend Member=Component U13 ADA4932-1
+Added Member To Class: ClassName=Analog Frontend Member=Component U14 ADRF6518
+Added Member To Class: ClassName=Analog Frontend Member=Component U15 MCP4728
+Added Member To Class: ClassName=Power Member=Component U16 LM2664

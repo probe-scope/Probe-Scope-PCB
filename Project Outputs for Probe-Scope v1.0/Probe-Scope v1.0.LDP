@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\Dropbox\O-Scope Probe\Probe-Scope - PCB\Probe-Scope v1.0.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=probe-scope v1.0.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Signal1_Blind_Vias|DrillFile=probe-scope v1.0.tx1|DrillLayers=gtl,g1
+LayersSetName=Top_Signal2_Blind_Vias|DrillFile=probe-scope v1.0.tx2|DrillLayers=gtl,g1,g2

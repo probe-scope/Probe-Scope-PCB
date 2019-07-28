@@ -1,0 +1,135 @@
+Added Component: Designator=C74(SGC3S)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C75(SGC3S)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R24(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "6/20/2019 8:44:42 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Expr1026"; Value = "2070"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "2070"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CRCW040210M0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???2070"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "momo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Resistor, Thick Film, 10M Ohms, 0.063W, 1% Tol, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "2070"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "541-4068-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Added Component: Designator=R25(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "6/20/2019 8:41:19 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Expr1026"; Value = "2069"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "2069"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CRCW0402680KJNED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???2069"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "momo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Resistor, Thick Film, 680k Ohms, 0.063W, 1% Tol, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "2069"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "541-680KJCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Added Component: Designator=R26(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "6/20/2019 8:37:56 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Expr1026"; Value = "2068"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "2068"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CRCW0402330KFKEDHP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???2068"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "momo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Resistor, Thick Film, 330k Ohms, 0.2W, 1% Tol, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "2068"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "541-330KYCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Added Component: Designator=R27(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "6/20/2019 8:52:22 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Expr1026"; Value = "2071"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "2071"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CRCW040228K0FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???2071"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "momo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Resistor, Thick Film, 28k Ohms, 0.063W, 1% Tol, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "2071"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "28k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "541-28.0KLCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Added Component: Designator=R28(0402(1005))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "6/20/2019 8:52:22 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Expr1026"; Value = "2071"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "2071"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "CRCW040228K0FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???2071"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "momo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "Resistor, Thick Film, 28k Ohms, 0.063W, 1% Tol, 0402, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "2071"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "28k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "541-28.0KLCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C74-1
+Added Pin To Net: NetName=NetC74_2 Pin=C74-2
+Added Pin To Net: NetName=GND Pin=C75-1
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetP2_1 Pin=R24-2
+Added Pin To Net: NetName=NetR24_1 Pin=R25-1
+Added Pin To Net: NetName=NetP2_1 Pin=R25-2
+Added Pin To Net: NetName=NetC74_2 Pin=R26-1
+Added Pin To Net: NetName=NetR24_1 Pin=R26-2
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=NetC74_2 Pin=R27-2
+Added Pin To Net: NetName=NetC75_2 Pin=R28-1
+Added Pin To Net: NetName=NetC74_2 Pin=R28-2
+Added Member To Class: ClassName=Analog Frontend Member=Component C74 SGC3S
+Added Member To Class: ClassName=Analog Frontend Member=Component C75 SGC3S
+Added Member To Class: ClassName=Analog Frontend Member=Component R24 Res1
+Added Member To Class: ClassName=Analog Frontend Member=Component R25 Res1
+Added Member To Class: ClassName=Analog Frontend Member=Component R26 Res1
+Added Member To Class: ClassName=Analog Frontend Member=Component R27 Res1
+Added Member To Class: ClassName=Analog Frontend Member=Component R28 Res1

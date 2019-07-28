@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=FDIO0_N Pin=P6-2
+Removed Pin From Net: NetName=GND Pin=P6-3
+Removed Pin From Net: NetName=FDIO1_N Pin=P7-2
+Removed Pin From Net: NetName=GND Pin=P7-3
+Change Component DesignItemId : Designator=P6 Old DesignItemId=1286 New DesignItemId=POGO_PADS_3
+Change Component DesignItemId : Designator=P7 Old DesignItemId=1286 New DesignItemId=POGO_PINS_3
+Change Component Comment : Designator=P6 Old Comment=PicoBlade 3 New Comment=Pogo Pads
+Change Component Comment : Designator=P7 Old Comment=PicoBlade 3 New Comment=Pogo Pins
+Change Component Library : Designator=P6 Old Library=MENG Database Library 18.DbLib New Library=PS v1.0.SchLib
+Change Component Library : Designator=P7 Old Library=MENG Database Library 18.DbLib New Library=PS v1.0.SchLib
+Change component parameters: Designator = "P6"; Footprint = "POGO_PADS_3"; UniqueID = "\DFWJNOGM\ATFIELEC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "P7"; Footprint = "POGO_PINS_3"; UniqueID = "\DFWJNOGM\KOYRGNYK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MANF"; Value = "Prec-Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_PN"; Value = "811-SS-003-30-002101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VENDOR"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VENDOR_PN"; Value = "1212-1561-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Pin To Net: NetName=FDIO0_N Pin=P6-3
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=FDIO1_N Pin=P7-3

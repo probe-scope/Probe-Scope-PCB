@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=U3 Old Footprint=QFP80P1200X1200X120-44N New Footprint=TSQFP50P1200X1200X120-64L
+Added Pin To Net: NetName=PMCS1 Pin=U3-45
+Added Pin To Net: NetName=UART1_RX Pin=U3-46
+Added Pin To Net: NetName=LED0 Pin=U3-47
+Added Pin To Net: NetName=LED1 Pin=U3-48
+Added Pin To Net: NetName=UART1_TX Pin=U3-49
+Added Pin To Net: NetName=L\D\A\C\ Pin=U3-50
+Added Pin To Net: NetName=SDO4 Pin=U3-51
+Added Pin To Net: NetName=PMENB Pin=U3-52
+Added Pin To Net: NetName=\P\M\W\R Pin=U3-53
+Added Pin To Net: NetName=3V3 Pin=U3-54
+Added Pin To Net: NetName=GND Pin=U3-55
+Added Pin To Net: NetName=SDO3 Pin=U3-56
+Added Pin To Net: NetName=SDI3 Pin=U3-57
+Added Pin To Net: NetName=PMD0 Pin=U3-58
+Added Pin To Net: NetName=GND Pin=U3-59
+Added Pin To Net: NetName=3V3 Pin=U3-60
+Added Pin To Net: NetName=PMD1 Pin=U3-61
+Added Pin To Net: NetName=PMD2 Pin=U3-62
+Added Pin To Net: NetName=PMD3 Pin=U3-63
+Added Pin To Net: NetName=PMD4 Pin=U3-64

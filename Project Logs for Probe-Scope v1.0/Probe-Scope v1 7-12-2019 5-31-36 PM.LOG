@@ -1,0 +1,50 @@
+Added Component: Designator=U10(SOT23-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "7/10/2019 7:11:20 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "2108"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "MCP6H01T-E/OT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???2108"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "momo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "3.5V to 16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "IC, Op Amp, 3.5V to 16V, SOT-23-5, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "2108"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Op Amp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "MCP6H01T-E/OTCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Added Component: Designator=U12(SOT23-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approved"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Modified"; Value = "7/10/2019 7:11:20 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "2108"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PN"; Value = "MCP6H01T-E/OT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MENG_PN"; Value = "???2108"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "momo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "3.5V to 16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P&V Description"; Value = "IC, Op Amp, 3.5V to 16V, SOT-23-5, SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parent Key"; Value = "2108"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Op Amp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR_PN"; Value = "MCP6H01T-E/OTCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified"; Value = "False"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCM Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=NetR2_1 Pin=U10-3
+Added Pin To Net: NetName=VCM Pin=U10-4
+Added Pin To Net: NetName=3V3 Pin=U10-5
+Added Pin To Net: NetName=NetR19_2 Pin=U12-1
+Added Pin To Net: NetName=-5V Pin=U12-2
+Added Pin To Net: NetName=NetC35_2 Pin=U12-3
+Added Pin To Net: NetName=NetR18_2 Pin=U12-4
+Added Pin To Net: NetName=5V Pin=U12-5
+Added Member To Class: ClassName=Analog Frontend Member=Component U10 MCP6H01
+Added Member To Class: ClassName=Analog Frontend Member=Component U12 MCP6H01

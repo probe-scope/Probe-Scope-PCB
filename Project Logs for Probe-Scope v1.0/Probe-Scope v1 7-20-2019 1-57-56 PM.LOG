@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=5V_USB Pin=C12-2
+Added Pin To Net: NetName=5V_USB Pin=C13-2
+Added Pin To Net: NetName=5V_USB Pin=P3-1
+Added Member To Class: ClassName=Controller Member=Component P4 PicoBlade 3

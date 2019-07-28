@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [Standard Config] of PCB Document [Probe-Scope v1.0.PcbDoc]
+   Generated File[Pick Place for Probe-Scope v1.0(Standard Config).csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:56:58 PM On 7/21/2019

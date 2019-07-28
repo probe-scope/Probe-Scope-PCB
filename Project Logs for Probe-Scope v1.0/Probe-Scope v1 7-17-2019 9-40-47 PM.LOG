@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=GND Pin=P6-2
+Removed Pin From Net: NetName=FDIO0_N Pin=P6-3
+Removed Pin From Net: NetName=GND Pin=P7-2
+Removed Pin From Net: NetName=FDIO1_N Pin=P7-3
+Change Component DesignItemId : Designator=P6 Old DesignItemId=POGO_PADS_3 New DesignItemId=1286
+Change Component DesignItemId : Designator=P7 Old DesignItemId=POGO_PINS_3 New DesignItemId=1286
+Change Component Comment : Designator=P6 Old Comment=Pogo Pads New Comment=PicoBlade 3
+Change Component Comment : Designator=P7 Old Comment=Pogo Pins New Comment=PicoBlade 3
+Change Component Library : Designator=P6 Old Library=PS v1.0.SchLib New Library=MENG Database Library 18.DbLib
+Change Component Library : Designator=P7 Old Library=PS v1.0.SchLib New Library=MENG Database Library 18.DbLib
+Change component parameters: Designator = "P6"; Footprint = "MOLEX PICOBLADE 3 POS"; UniqueID = "\DFWJNOGM\ATFIELEC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Approved"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date Modified"; Value = "2/19/2015 4:08:35 PM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Key"; Value = "1286"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_PN"; Value = "53047-0310"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MENG_PN"; Value = "???1286"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Modified By"; Value = "rlaity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Other"; Value = "Vert, Through Hole, Locking, Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P&V Description"; Value = "Connector, PicoBlade, 3 Positions, Male, 0.049" Spacing, 1A, 125V, Vert, Through Hole, Locking, Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parent Key"; Value = "1286"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Positions"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sex"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "False"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Spacing"; Value = "0.049"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "PicoBlade"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VENDOR_PN"; Value = "WM1732-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Verified"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "125"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P7"; Footprint = "MOLEX PICOBLADE 3 POS"; UniqueID = "\DFWJNOGM\KOYRGNYK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Approved"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date Modified"; Value = "2/19/2015 4:08:35 PM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Key"; Value = "1286"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_PN"; Value = "53047-0310"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MENG_PN"; Value = "???1286"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Modified By"; Value = "rlaity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Other"; Value = "Vert, Through Hole, Locking, Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P&V Description"; Value = "Connector, PicoBlade, 3 Positions, Male, 0.049" Spacing, 1A, 125V, Vert, Through Hole, Locking, Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parent Key"; Value = "1286"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Positions"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sex"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "False"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Spacing"; Value = "0.049"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "PicoBlade"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VENDOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VENDOR_PN"; Value = "WM1732-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Verified"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "125"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FDIO0_N Pin=P6-2
+Added Pin To Net: NetName=GND Pin=P6-3
+Added Pin To Net: NetName=FDIO1_N Pin=P7-2
+Added Pin To Net: NetName=GND Pin=P7-3
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U9-1
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=U6-1
+Added Net: Name=NetL2_1
