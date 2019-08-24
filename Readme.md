@@ -6,14 +6,14 @@ See more on our [project page!](https://hackaday.io/project/165964-60mhz-bandwid
 
 # Schematic Overview
 
-![Page 1](/Project Outputs for Probe-Scope v1.0/Page1.png)
+![Page 1](https://raw.githubusercontent.com/probe-scope/Probe-Scope-PCB/master/Project%20Outputs%20for%20Probe-Scope%20v1.0/Page1.png)
 
 # Final Assembled PCB
 
 ## Top
 
-![top](/Project Outputs for Probe-Scope v1.0/top.jpg)
+![top](https://raw.githubusercontent.com/probe-scope/Probe-Scope-PCB/master/Project%20Outputs%20for%20Probe-Scope%20v1.0/top.jpg)
 
 ## Bottom
 
-![top](/Project Outputs for Probe-Scope v1.0/bottom.jpg)
+![top](https://github.com/probe-scope/Probe-Scope-PCB/blob/master/Project%20Outputs%20for%20Probe-Scope%20v1.0/bottom.jpg)
